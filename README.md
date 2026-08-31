@@ -1,0 +1,29 @@
+# Mod List
+- OnlyWhites
+- Increase Droprate
+- Increase Elite Items Droprate
+- Guaranteed Drops
+- Perfect Drops
+- Runes and Gems on Sale
+- Charms and Jewels Vendor
+- Horadric Forging
+- Socket Punching
+- Countess Mods
+- D2R Simple Loot Filter
+- Expanded Cube
+- Expanded Inventory
+- Expanded Stash
+- Increase Stack Size
+- Increase Uber Key and Ancient Statue Droprate
+- Rune Downgrade
+- Rune Easy Upgrade
+- Stackable Gems
+- Stackable Runes
+- Decrease Clutter Drops
+- Extended Formulae
+- Increase Sunder Charm Drops
+- Item Dictionary
+- No Exp Slowdown to 99
+- Town Cast
+- Better Experience & Leveling D2RMM
+- Rejuvenation Potion Vendor
